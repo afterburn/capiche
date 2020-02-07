@@ -1,0 +1,22 @@
+{
+  "name": "capiche",
+  "version": "0.0.1",
+  "description": "Framework for building smarter API's",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "Kevin Karsopawiro",
+    "email": "k.karsopawiro@gmail.com",
+    "url": "https://www.linkedin.com/in/afterburn"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/afterburn/capiche.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
